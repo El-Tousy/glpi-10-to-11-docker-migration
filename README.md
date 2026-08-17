@@ -108,7 +108,7 @@ docker exec -i glpi-db mysql -u glpi -p glpi < glpi_backup_10.0.7.sql
 
 ##  Author
 
-- GitHub : [@Nexus-Vertex](https://github.com/Nexus-Vertex)
+- GitHub : [@El-Tousy](https://github.com/El-Tousy)
 - Email : leilaeltousy@gmail.com
 
 ---
