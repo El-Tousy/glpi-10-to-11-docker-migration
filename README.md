@@ -8,7 +8,7 @@
 ---
 
 ## 📸 Screenshots
-
+ 
 <table width="100%">
   <tr>
     <td width="33%"><img src="./screenshots/Image1.jpg" width="100%"/></td>
