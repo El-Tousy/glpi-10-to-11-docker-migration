@@ -5,7 +5,7 @@
 > Dockerized GLPI 11 installation and database migration from an existing GLPI 10 instance.
 > Technical Internship Project – 2026
  
----
+--- 
  
 ## 📸 Screenshots
  
